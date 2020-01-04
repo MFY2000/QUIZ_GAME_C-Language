@@ -1,0 +1,299 @@
+&:Which is the first capital city of pakistan:
+$:A.Karachi B.Islamabad C.Lahore D.Peshawar!
+@:A
+
+&:Who is the first President of Pakistan:
+$:A.Liaquat_ALi_Khan B.Quaid-e-Azam C.Iskander_Mirza D.Fatima_Jinnah!
+@:C
+
+&:The Pakistan meaning in Persian and Urdu is:
+$:A.land_of_people B.land_of_muslim C.land_of_dream D.land_of_pure!
+@:D
+
+&:The national drink of Pakistan is:
+$:A.Manju_mashroob B.Roh C.Easir_tafah D.Naranji_sharbat!
+@:B
+
+&:The highest mountain of Pakistan is:
+$:A.Mount_Everest B.Mount_Godwin-Austen C.Nanga_Parbat D.Broad_Peak!
+@:B
+
+&:The biggest river of Pakistan is:
+$:A.Ravi B.Jehlum C.Chanab D.Indus!
+@:D
+
+&:The Pakistan has the rare species of Dolphin known as:
+$:A.Blind_Dolphin B.Baiji_Dolphin C.Strip_Dolphin D.Spinner_Dolphin!
+@:A
+
+&:The youngest civil judge of Pakistan's age was:
+$:A.25 B.15 C.20 D.18!
+@:C
+
+&:The largest city of Pakistan is: 
+$:A.Lahore B.Karachi C.Islamabad D.Peshawar!
+@:B
+
+&:The most beautiful city of Pakistan is:
+$:A.Karachi B.Lahore C.Quetta D.Islamabad!
+@:D
+
+&11 The most populated city of Pakistan is:
+$11:A.Karachi B.Quetta C.Islamabad D.Lahore!
+@11:A
+
+&:The best force of Pakistan is:
+$:A.Navy B.Army C.Air-Force D.Police!
+@:C
+
+&:The air commander who have shot 5 airplanes in less than a minute was:
+$:A.Rashid_Minhas B.MM_Alam C.Major_Aziz_Bhatti D.Kernal_Sher_Khan!
+@:B
+
+&:The youngest microsoft certified developer of Pakistan was:
+$:A.Arfa_Karim B.Arfa_Naveed C.Malala_Yousafzai D.Arfa_Sidiqque!
+@:A
+
+&:The national animal of Pakistan is:
+$:A.Goat B.Cow C.Markhor D.Camel!
+@:C
+
+&:The national bird of Pakistan is:
+$:A.Eagle B.Sparrow C.Pheasent D.Hoatzin!
+@:C
+
+&:In which year Pakistan become nuclear power:
+$:A.1997 B.1957 C.1975 D.1998!
+@:D
+
+&:In which year Bangladesh separated from Pakistan:
+$:A.1975 B.1973 C.1971 D.1974!
+@:C
+
+&:The first war between Pakistan and India was fought in:
+$:A.1975 B.1965 C.1976 D.1971!
+@:B
+
+&:The second war between pakistan and India happens in:
+$:A.1975 B.1965 C.1976 D.1971!
+@:D
+
+&:The first prime minister of Pakistan was:
+$:A.Liaquat_ALi_Khan B.Quaid-e-Azam C.Iskander_Mirza D.Fatima_Jinnah!
+@:A
+
+&:Pakistan first army chief was:
+$:A.Ayub_Khan B.Muhammad_Zia-ul-Haq C.Tikka_Khan D.General_Bajwa!
+@:A
+
+&:The first navy chief of Pakistan was:
+$:A.Zafar B.Muhammad_Sidiqq_Chaudary C.Ayub_Khan D.Tikka_Khan!
+@:B
+
+&:The fisrt air chief was:
+$:A.Rashid_Minhas B.Mujahid_Anwar_Khan C.Asghar_Khan D.Zaffar!
+@:C
+
+&:The Pakistan name was given by:
+$:A.Chaudary_Rehmat_Ali B.Chaudary_Shaukat_Ali C.Liaquat_Ali_Khan D.Rehmat_Ali!
+@:A
+
+&:The Puma is considered as a species of black leopard and a black:
+$:A.Cheetah B.Caugar  C.Jaguar D.Tiger!
+@:B
+
+&:The heart of shrimp is located in:
+$:A.Back B.Middle C.Centre D.Head!
+@:D
+
+&:A snail can sleep for this many years:
+$:A.4 B.3 C.2 D.1!
+@:B
+
+&:The animal that can jump is:
+$:A.Girrafe B.Rhino C.Elephant D.Hippopotamus!
+@:C
+
+&:The horn of rhino is made up of:
+$:A.Hair B.Vitamins C.Calcium D.Bones! 
+@:A
+
+&:This animal have no vocal chord:
+$:A.Crocodile B.Girrafe C.Rhino D.Elephant!
+@:B
+
+&:Cat say meow for:
+$:A.Showing_expression B.Communication C.Sad D.Attention_from_human!
+@:D
+
+&:This bird can mimic eagle
+$:A.Woodpecker B.Shoebill C.Blue_Jay D.Lyre_Bird!
+@:C
+
+&:This animal have no tongue:
+$:A.Crockodile B.Girrafe C.Rhino D.Elephant!
+@:A
+
+&:This animal has two brain:
+$:A.Kangroo B.Gorilla C.Monkey D.Elephant!
+@:C
+
+&:This reptile can listen from its tongue
+$:A.Crocodile B.Lizard C.Snake D.Chameleon!
+@:C
+
+&:This animal have no gall bladder:
+$:A.Kangroo B.Deer C.Elephant D.Zebra!
+@:B
+
+&:This animal never sleep:
+$:A.Bee B.housefly C.Ant D.Spider!
+@:C
+
+&:This animal can run faster than human:
+$:A.Monkey B.Dog C.Hippopotamus D.Donkey!
+@:C
+
+&:This insect can grow its eye:
+$:A.Spider B.Coackroch C.Ladybug D.Snail!
+@:D
+
+&:Jaw is the common name of that fish:
+$:A.Goldfish B.Swordfish C.Shark D.Sawfish
+@:A
+
+&:The most poisonus fish in the world is:
+$:A.Eel B.Stonefish C.Lionfish D.Red_lionfish!
+@:B
+
+&:Each individual tiger is different from other on the basis of:
+$:A.Teeth B.Height C.Weight D.Strips!
+@:D
+
+&:A whale heart beats only this time a minute:
+$:A.5 B.9 C.10 D.12!
+@:B
+
+&:Killer whales are different species of:
+$:A.Whale B.Shark C.Dolphin D.Goldfishes!
+@:C
+
+&:Chocolate are harmful to this animal:
+$:A.Goat B.Cats C.Elephant D.Dog!
+@:D
+
+&:The dumbest dog in the world is:
+$:A.Poddie B.Bulldog C.Great_Dane D.Afghan_hounds!
+@:D
+
+&:This animal can get human cold and other illness:
+$:A.Gorilla B.Monkey C.Cat D.dog!
+@:A
+
+&:This water creature can be drowned if they stay in under water for too long:
+$:A.Sawfish B.Jellyfish C.Starfish D.Turtle!
+@:D
+
+&:The fear of animal is known as:
+$:A.Zoophia B.Wildphobia C.Zoophobia D.Animalphobia!
+@:C
+
+&:Which is the national game of Russia:
+$:A.Volleyball B.Baseball C.Bandy D.Golf!
+@:C
+
+&:Which is the national game of United States of America:
+$:A.Vollyball B.Basketball C.Football D.Soocer!
+@:B
+
+&:Which is the national flower of Australia:
+$:A.Golden_Wattle B.Tulips C.Rose D.Jasmine!
+@:A
+
+&:Which is the national game of France:
+$:A.Vollyball B.Basketball C.Football D.Soocer!
+@:C
+
+&:The highest cold desert in the world is Katpana Desert. It is located in:
+$:A.Pakistan B.India C.China D.Spain!
+@:D
+
+&:Alexandria is a city in:
+$:A.America B.Egypt C.Dubai D.Spain!
+@:B
+
+&:Penicillin (PCN) antibiotics were discovered in 1928 by:
+$:A.Alexander_Fleming B.Mikhail_Kalashnikov C.Alfred_Nobel D.Wright_brothers!
+@:B
+
+&: Charlie Chaplin, one of the most important figures in the history of the film industry was a/an _______ actor:
+$:A.German B.English C.American D.Spanish!
+@:C
+
+&:Panama (a country) connects the two continents:
+$:A.Asia_and_Europe B.Asia_and_Africa C.Asia_and_Australia D.South_America_and_North_America!
+@:D
+
+&:Islands which measure less than one acre (or less than 4046.86 meter square) are often referred to as:
+$:A.Archipelagos B.islets C.tributaries D.atolls!
+@:B
+
+&:The Pico Island is located in:
+$:A.Portugal B.America C.Switzerland D.Egypt!
+@:A
+
+&: Sultan Ahmed Mosque in Istanbul is popularly known as the:
+$:A.Blue_Mosque B.Green_Mosque C.Yellow_Mosque D.Red_Mosque!
+@:A
+
+&:The World’s first camel hospital is located in:
+$:A.Dubai_UAE B.Jaddah_Saudi_Arabia C.Mascat_Oman D.None_of_These!
+@:A
+
+&:Which is the world’s oldest democracy:
+$:A.India B.Roman C.Greece D.UK!
+@:C
+
+&:Which country was the first to make sealt belts compulsory for journey:
+$:A.Inida B.Czechoslovakia C.America D.China!
+@:B
+
+&:The South Pole of the Earth is located in:
+$:A.Norway B.Arctic_Ocean C.Antarctica D. Pacific_Ocean!
+@:C
+
+&:The North Pole of the Earth is located in:
+$:A.Norway B.Arctic_Ocean C.Antarctica D. Pacific _Ocean!
+@:B
+
+&:Augusta Raurica is located in:
+$:A.Switzerland B.Egypt C.New_York D.Afghanistan!
+@:A
+
+&:The Pena Palace, a UNESCO World Heritage Site, is located in:
+$:A.Switzerland B.Egypt C.New_York D.Portugal!
+@:D
+
+&:The bridge in Istanbul, Turkey that connects Asia and Europe is called:
+$:A.Akashi_Kaikyo Bridge B.Royal_Gorge_Bridge C.Golden_Gate Bridge D.Bosphorus_Bridge!
+@:D
+
+&:Alexandria is a city in:
+$:A.Switzerland B.Egypt C.New_York D.Portugal!
+@:B
+
+&:Ross Island in the Ross Sea is located near:
+$:A.Greenland B.continent of Antarctica C.continent of Australia D.Norway!
+@:B
+
+&:The first European to reach India by sea was:
+$:A.John_Cabot B.Marco_Polo C.Vasco_da_Gama D.Christopher_Columbus!
+@:C
+
+&:Vasco da Gama was a/an __________ explorer:
+$:A.French B.Portuguese C.English D.German!
+@:B
+
+&:The World Wide Web was invented by
+$:A.Steve_Jobs B.Bob_Kahn C.Tim_Berners-Lee D.Bill_Gates!
+@:C

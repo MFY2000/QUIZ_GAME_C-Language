@@ -1,0 +1,17 @@
+
+Fahad	Level: 0	Lifeline: 0	Sroce: $0	Answer Correct: 0	Answer Wrong: 3	Answer in which Time up: 3
+
+ahmed amin	Level: 0	Lifeline: 0	Sroce: $0	Answer Correct: 0	Answer Wrong: 3	Answer in which Time up: 3
+
+ahmed ahmed 	Level: 1	Lifeline: 0	Sroce: $80	Answer Correct: 16	Answer Wrong: 3	Answer in which Time up: 0
+
+AHMED AMIN	Level: 1	Lifeline: 0	Sroce: $90	Answer Correct: 18	Answer Wrong: 3	Answer in which Time up: 0
+
+Asad Ali	Level: 1	Lifeline: 0	Sroce: $90	Answer Correct: 18	Answer Wrong: 3	Answer in which Time up: 0
+
+
+Ahmed Amin	Level: 3	Lifeline: 3	Sroce: $65	Answer Correct: 13	Answer Wrong: 0	Answer in which Time up: 0
+
+Fahad	Level: 4	Lifeline: 0	Sroce: $90	Answer Correct: 18	Answer Wrong: 3	Answer in which Time up: 0
+
+FAhad	Level: 1	Lifeline: 2	Sroce: $20	Answer Correct: 4	Answer Wrong: 1	Answer in which Time up: 0
